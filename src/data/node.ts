@@ -18,7 +18,7 @@ interface RPCNode {
 }
 
 const ASSET_HUB_LOCATIONS: NodeLocation[] = [
-    { id: 0, city: 'Warsaw', latitude: 52.237, longitude: 21.0175, slug: 'warsaw' },
+    { id: 0, city: 'İstanbul', latitude: 41.0151, longitude: 28.9795, slug: 'istanbul' },
 ];
 
 const CORETIME_LOCATIONS: NodeLocation[] = [
